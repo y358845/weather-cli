@@ -1,0 +1,19 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "Консольное приложение прогноз погоды",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudenko Viktor",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://purpleschool.ru"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
